@@ -6,6 +6,7 @@ datePublished: Sun Aug 25 2024 10:44:28 GMT+0000 (Coordinated Universal Time)
 cuid: cm09fzrsc000d08l7g4vjf25u
 slug: the-art-of-building-scalable-backend-architectures
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/g5jpH62pwes/upload/5aff6efa75497cc5e45f50f4af38bfca.jpeg
+tags: microservices, backend, monolithic
 
 ---
 
