@@ -5,6 +5,7 @@ seoDescription: "Explore AI integration in software development: code generation
 datePublished: Sun Aug 25 2024 11:49:19 GMT+0000 (Coordinated Universal Time)
 cuid: cm09ib5w7000y08mbfwd32jgd
 slug: the-impact-of-ai-on-software-development-opportunities-and-challenges
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/uSooyF1X0s8/upload/b9e2c301569a36d155af53d0b4dec097.jpeg
 tags: artificial-intelligence, software-development
 
 ---
