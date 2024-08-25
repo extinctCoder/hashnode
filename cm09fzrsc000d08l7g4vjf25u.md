@@ -1,5 +1,7 @@
 ---
 title: "The Art of Building Scalable Backend Architectures"
+seoTitle: "Scalable Backend Architecture Essentials"
+seoDescription: "Master backend architectures with monolith vs. microservices, database choices, API design, security, and scaling strategies"
 datePublished: Sun Aug 25 2024 10:44:28 GMT+0000 (Coordinated Universal Time)
 cuid: cm09fzrsc000d08l7g4vjf25u
 slug: the-art-of-building-scalable-backend-architectures
